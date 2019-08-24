@@ -1,0 +1,9 @@
+$HOla:Brasil
+Magrid:1999{Menso|13|Arg;Ronal|11|Port}
+BBVA:2013{Carlos|08|Honduras;Manuel|14|Port}
+$ADios:Francia
+Barca:1998{Mensi|12|Arg;Ronald|10|Port}
+Recia:2013{Carlos|08|Honduras;Manuel|14|Port}
+$Tschuss:Deutschland
+Osterreich:1802{Kempen|05|Austria;Davit|06|Alemania}
+Wiedersehen:1903{Karl|03|Hungria;Beto|25|Reciolandia}
